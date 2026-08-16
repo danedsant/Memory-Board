@@ -8,9 +8,11 @@ Un lienzo interactivo y mapa diseñado para visualizar conexiones interpersonale
 
 
  Demo Interactiva: [Starry Memories](https://starrymem.vercel.app/)
-
  > [!NOTE]
- > Existe una nueva version en desarrollo rediseñada completamente desde cero abordando las deficiencias de esta version de prueba
+ > Este proyecto nació como prueba de que alguna vez amé a alguien; formará parte de mis recuerdos cuando algún día fallezca y solo quería guardarlo aquí. Sé que a veces mirar al pasado puede ser doloroso, pero me gustó, y mucho, cada momento, y volvería a vivirlo en cualquier momento sabiendo cómo acabaría.
+
+> Si ves esto espero que le des uso y generes tus propios recuerdos para el visor
+
 
 ## 🚀 Características
 
@@ -79,10 +81,12 @@ Esta versión (Beta) funciona como una prueba de concepto visual, pero actualmen
 * Implementado edicion de nombres de nodos
 * Implementado color unico para vinculos entre nodo principal y secundario, quedando inutilizable como color para nodos de momentos
 * Mejoras de UI
-* Implementado fondo de estrellas con animacion leve pulsante 
+* Implementado fondo de estrellas con animacion pulsante 
 * Implementado Eliminacion en cascada de nodos asociados a nodo padre
 * Reemplazados alertas y confirmaciones por modales con estilos propios
 ---
 * Mejora en la vista de moviles
 * Reduccion menor en detalles visuales en vista movil para reducir carga grafica
 * Implementado arrastre de nodos en moviles
+
+
